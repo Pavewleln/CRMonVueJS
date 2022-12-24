@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksrm"]=self["webpackChunksrm"]||[]).push([[179],{179:function(t,u,n){n.r(u),n.d(u,{default:function(){return l}});var e=n(3396);function r(t,u,n,r,s,o){return(0,e.wg)(),(0,e.iD)("div",null," Выход из системы ")}n(7658);var s=n(65),o=n(2483),c={setup(){const t=(0,s.oR)(),u=(0,o.tv)();(0,e.bv)((()=>{t.commit("auth/logout"),u.push("/login?message=logout")}))}},a=n(89);const i=(0,a.Z)(c,[["render",r]]);var l=i}}]);
+//# sourceMappingURL=179.961086f4.js.map

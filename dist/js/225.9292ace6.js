@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksrm"]=self["webpackChunksrm"]||[]).push([[225],{8225:function(n,r,c){c.r(r),c.d(r,{default:function(){return o}});var s=c(3396);const t={class:"card"},e=(0,s._)("div",{class:"card-content"}," Страница не найдена ",-1),a=[e];function u(n,r,c,e,u,d){return(0,s.wg)(),(0,s.iD)("div",t,a)}var d={},i=c(89);const f=(0,i.Z)(d,[["render",u]]);var o=f}}]);
+//# sourceMappingURL=225.9292ace6.js.map
